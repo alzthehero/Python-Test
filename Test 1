@@ -1,0 +1,6 @@
+#  these tests are from http://www.practicepython.org
+
+# Test 1 : Ask User's Name and Age 
+
+name = "Mike"
+print "Hello %s" % (name)
